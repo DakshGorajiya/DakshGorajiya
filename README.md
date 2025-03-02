@@ -2,6 +2,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DakshGorajiya.DakshGorajiya">
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=DakshGorajiya&" height="150" alt="trophy graph"  />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Daksh+Gorajiya....;Nice+to+meet+you!&center=true&size=30">
@@ -60,6 +64,7 @@ Since then I pushed **3469**+ commits, opened **229**+ issues, submitted **550**
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 
+<hr>
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -97,8 +102,6 @@ Since then I pushed **3469**+ commits, opened **229**+ issues, submitted **550**
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
-
-
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="images/marquee2.svg">
@@ -126,10 +129,3 @@ Since then I pushed **3469**+ commits, opened **229**+ issues, submitted **550**
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshGorajiya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
