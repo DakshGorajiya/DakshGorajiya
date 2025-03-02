@@ -17,7 +17,9 @@
   
 </h5>
 <br>
-I am just a regular everyday normal MF, Once an introvert, I’ve evolved into an extrovert, strengthen by hardships, motivated by pain, passionate for probelm-solving, driven by purpose on the path of Redemption. I am pursuing my Bachelor's in IT Engineering at LDCE Ahmedabad, after earning my Diploma in IT Engineering from Sir BPTI Bhavnagar. 
+I'm just a regular everyday normal MF, Once an introvert, I’ve evolved into an extrovert, strengthen by hardships, motivated by pain, passionate for probelm-solving, driven by purpose on the path of Redemption. 
+
+I am pursuing my Bachelor's in IT Engineering at LDCE Ahmedabad, after earning my Diploma in IT Engineering from Sir BPTI Bhavnagar. 
 
 As a relentless tech explorer, I dive deep into domains like AI/ML, Data Science, Gen AI, LLMs, Cybersecurity, and Web Development. I’m constantly leveling up through hands-on projects of Data Science and Web Dev, cybersecurity certifications, and CTF challenges, blending creativity with technical grit. My strong command over the MERN stack, Java, Python, software development, and core IT principles fuels my ability to build, secure, and innovate across the digital landscape.
 
