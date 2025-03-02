@@ -17,17 +17,15 @@
   
 </h5>
 <br>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am just a regular everyday normal MF, Once an introvert, I’ve evolved into an extrovert, strengthen by hardships, motivated by pain, passionate for probelm-solving, driven by purpose on the path of Redemption. I am pursuing my Bachelor's in IT Engineering at LDCE Ahmedabad, after earning my Diploma in IT Engineering from Sir BPTI Bhavnagar. 
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+As a relentless tech explorer, I dive deep into domains like AI/ML, Data Science, Gen AI, LLMs, Cybersecurity, and Web Development. I’m constantly leveling up through hands-on projects of Data Science and Web Dev, cybersecurity certifications, and CTF challenges, blending creativity with technical grit. My strong command over the MERN stack, Java, Python, software development, and core IT principles fuels my ability to build, secure, and innovate across the digital landscape.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+Learning is my lifeline—it’s where I find freedom in every challenge I conquer. Curiosity is my rebellion, pushing me to question everything and chase the unknown. Philosophy feeds my soul, unraveling life’s chaos into threads of meaning, while cinema sweeps me into new realities—each frame a window to feel, think, and dream beyond my own skin.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+I thrive on networking, sparking connections, and diving into thought-provoking conversations with new faces. Catch me at industry events, community meetups, workshops, seminars, or summits—wherever ideas collide!
 
-Joined Github **6** years ago.
-
-Since then I pushed **3469**+ commits, opened **229**+ issues, submitted **550**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+Hit me up @dakshgorajiya for tech chats, deep ideas, Philosophical conversation or a quick hello—let’s shape the future together! 🌟"
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
